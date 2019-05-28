@@ -10,7 +10,7 @@ source diverseShell.config
 ````
 ## Uses the Library
 - Most importantly use the Reset
--- This is for cleaning the palette so you don't make everything a little too diverse, yknow
+  - This is for cleaning the palette so you don't make everything a little too diverse, yknow
 ```
 reset="${dsRE}"
 ```
@@ -23,12 +23,12 @@ backgroundred="${bRed}"
 fontred="${fRed}"
 ```
 - Change style
--- Bold
--- Dim
--- Underline
--- Blink
--- Invert
--- Hide
+  - Bold
+  - Dim
+  - Underline
+  - Blink
+  - Invert
+  - Hide
 ```
 ${dsB}	# Bold/Bright
 ${dsD}	# Dim
