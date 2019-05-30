@@ -37,3 +37,7 @@ ${dsBLINK}	# Blink (Doesn't work with most Terminal-Emulators)
 ${dsIN}	# Invert
 ${dsHIDE}	# Hidden (useful for passwords)
 ```
+## To-do list
+- Make Color Schemes (Different Themes)
+- Possibly the 255/color codes rather than the 8/16
+- somehow simplfy the code?
